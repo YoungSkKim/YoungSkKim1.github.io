@@ -4,10 +4,7 @@ main:
     url: /about/    
     
   - title: "CV"
-    url: https://drive.google.com/file/d/1z0n2E1peWZHZ2snGSJV8m78F9Dor273p/view?usp=sharing
-    
- # - title: "Resume"
- #   url: https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing
+    url: https://drive.google.com/file/d/1hHdZ2EaiNFFvuh3sddImLLGH4E5Oods7/view?usp=sharing
     
   - title: "Publications"
     url: /publications/ 
