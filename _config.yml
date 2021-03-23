@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rasika Bhalerao"
+title                    : "Youngseok Kim"
 title_separator          : "-"
-name                     : &name "Rasika Bhalerao"
-description              : &description "I am a PhD student in computer science at NYU working with Professor Damon McCoy. I am interested in cybercrime, natural language processing, machine learning, and teaching. She/her."
-url                      : https://rasikabh.github.io/
+name                     : &name "Youngseok Kim"
+description              : &description "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in computer vision and autonomous vehicle."
+url                      : https://youngskkim.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rasikabh/rasikabh.github.io"
+repository               : "youngskkim/youngskkim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter rasikabh
+  username               :
 facebook:
   username               :
   app_id                 :
