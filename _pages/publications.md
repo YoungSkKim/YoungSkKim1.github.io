@@ -20,7 +20,7 @@ Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “[Low-level Sensor Fusion N
 **Youngseok Kim**, Dongsuk Kum, “[Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image](https://www.researchgate.net/publication/335499200_Deep_Learning_based_Vehicle_Position_and_Orientation_Estimation_via_Inverse_Perspective_Mapping_Image),” 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019, pp. 317-323, doi: 10.1109/IVS.2019.8814050. *(Oral, 5.8% acceptance rate)*
 
 
-~~                                                                                                                                       ~~
+---------------------------------------
 
 
 ## (Patents)
@@ -34,7 +34,7 @@ Dongsuk Kum, **Youngseok Kim**, Seoung Jun Lee, "Distance Measuring Device Using
 Dongsuk Kum, **Youngseok Kim**, "Electronic Device for Obtaining Three-Dimension Object Based on Camera and Radar Sensor Fusion, and Operating Method Thereof," US, DE, PCT, Application Number: 17199043.
 
 
-~~                                                                                                                                       ~~
+---------------------------------------
 
 
 ## (Domestic Papers)
