@@ -1,7 +1,7 @@
 # main links links
 main:
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "About"
+    url: /about/    
     
   - title: "CV"
     url: #https://drive.google.com/file/d/1QaT7_kRcyo0M1aJdTwpL1eJ_Xk1gkZku/view
