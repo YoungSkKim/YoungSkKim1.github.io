@@ -17,7 +17,7 @@ author_profile: true
 
 Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “[Low-level Sensor Fusion Network for 3D Vehicle Detection using Radar Range-Azimuth Heatmap and Monocular Image](https://openaccess.thecvf.com/content/ACCV2020/html/Kim_Low-level_Sensor_Fusion_Network_for_3D_Vehicle_Detection_using_Radar_ACCV_2020_paper.html),” Proceedings of the Asian Conference on Computer Vision (ACCV), Kyoto, Japan (Virtual), 2020, pp. 388-402, doi: 10.1007/978-3-030-69535-4_24.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UdWNWnBxcso/0.jpg)](https://www.youtube.com/watch?v=UdWNWnBxcso)
+[![ACCV2020_Video](https://img.youtube.com/vi/UdWNWnBxcso/0.jpg)](https://www.youtube.com/watch?v=UdWNWnBxcso =320x180)
 
 **Youngseok Kim**, Jun Won Choi, Dongsuk Kum, “[GRIF Net: Gated Region of Interest Fusion Network for Robust 3D Object Detection from Radar Point Cloud and Monocular Image](https://ieeexplore.ieee.org/document/9341177),” 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vagas, NV, USA (Virtual), 2020, pp. 10857-10864, doi: 10.1109/IROS45743.2020.9341177.
 
