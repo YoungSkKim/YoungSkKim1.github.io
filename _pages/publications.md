@@ -13,7 +13,7 @@ author_profile: true
 
 ### (Conference Papers)
 
-**Youngseok Kim**, Sangmin Sim, Jun Won Choi, Dongsuk Kum, “LiDAR Points as Depth Supervision: Boosting Monocular 3D Object Detection with Auxiliary Depth and Uncertainty Prediction,” *Under Review*
+**Youngseok Kim**, Sangmin Sim, Jun Won Choi, Dongsuk Kum, “LiDAR Points as Depth Supervision: Boosting Monocular 3D Object Detection with Auxiliary Depth and Uncertainty Prediction,” 2020, *Under Review*
 
 Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “Low-level Sensor Fusion Network for 3D Vehicle Detection using Radar Range-Azimuth Heatmap and Monocular Image,” Proceedings of the 15th Asian Conference on Computer Vision (ACCV), Kyoto, Japan (Virtual), 2020.
 <br/>
