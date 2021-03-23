@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-### **(Conference Papers)**
+(Conference Papers)
 
 Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “[Low-level Sensor Fusion Network for 3D Vehicle Detection using Radar Range-Azimuth Heatmap and Monocular Image](https://www.researchgate.net/publication/344661441_Low-level_Sensor_Fusion_for_3D_Vehicle_Detection_using_Radar_Range-Azimuth_Heatmap_and_Monocular_Image),” Proceedings of the Asian Conference on Computer Vision (ACCV), Kyoto, Japan (Virtual), 2020, pp. 388-402, doi: 10.1007/978-3-030-69535-4_24.
 
@@ -20,9 +20,10 @@ Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “[Low-level Sensor Fusion N
 **Youngseok Kim**, Dongsuk Kum, “[Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image](https://www.researchgate.net/publication/335499200_Deep_Learning_based_Vehicle_Position_and_Orientation_Estimation_via_Inverse_Perspective_Mapping_Image),” 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019, pp. 317-323, doi: 10.1109/IVS.2019.8814050. *(Oral, 5.8% acceptance rate)*
 
 
+~~                                                                                                                                       ~~
 
 
-### **(Patents)**
+(Patents)
 Dongsuk Kum, **Youngseok Kim**, "Electronic Device for Obtaining Three-Dimension Object Based on Camera and Radar Sensor Fusion, and Operating Method Thereof," KR, Registration Number: 10-2168753-0000.
 
 Dongsuk Kum, **Youngseok Kim**, "Simultaneous Traffic Participants Detection and Localization vis Bird’s Eye View Image," KR, Registration Number: 10-2003387-0000.
@@ -32,9 +33,10 @@ Dongsuk Kum, **Youngseok Kim**, Seoung Jun Lee, "Distance Measuring Device Using
 Dongsuk Kum, **Youngseok Kim**, "Electronic Device for Obtaining Three-Dimension Object Based on Camera and Radar Sensor Fusion, and Operating Method Thereof," US, DE, PCT, Application Number: 17199043.
 
 
+~~                                                                                                                                       ~~
 
 
-### **(Domestic Papers)**
+(Domestic Papers)
 **Youngseok Kim**, Dongsuk Kum, "Vehicle Distance Estimation using Convolutional Neural Network on Inverse Perspective Mapping Image,"  Korean Society of Automotive Engineers (KSAE), Gyeongju, Korea, 2019.
 
 **Youngseok Kim**, Dongsuk Kum, "Fault Tolerant Vehicle Detection Using Camera-LiDAR Sensor Fusion: Multi-channel Faster R-CNN,"  Korean Society of Automotive Engineers (KSAE), Busan, Korea, 2018.
