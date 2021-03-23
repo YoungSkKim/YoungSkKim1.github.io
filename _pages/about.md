@@ -10,4 +10,4 @@ redirect_from:
 
 I'm Youngseok Kim, a PhD candidate in the Graduate School of Green Transportation (GSGT) at KAIST under [Prof. Dongsuk Kum](http://vdclab.kaist.ac.kr/). 
 
-My research interest lies in computer vision and machine learning for autonomous driving system. My current focus is on the robust and cost-effective 3D object detection using off-the-shelf monocular camera and radar sensor.
+I'm interested in computer vision and machine learning for autonomous driving system. My current research is focused on developing the robust and cost-effective 3D object detection approaches using off-the-shelf monocular camera and radar sensors.
