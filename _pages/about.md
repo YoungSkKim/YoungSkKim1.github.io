@@ -11,4 +11,3 @@ redirect_from:
 I am a PhD student at KAIST working with Professor Dongsuk Kum. 
 I am interested in 3D computer vision and autonomous driving.
 
-<img src="/images/bhalerao.jpg" width="200">
