@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Youngseok Kim"
 title_separator          : "-"
 name                     : &name "Youngseok Kim"
-description              : &description "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in computer vision and autonomous vehicle."
+description              : &description "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in 3D computer vision and autonomous vehicle."
 url                      : https://youngskkim.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youngskkim/youngskkim.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rasika Bhalerao"
+  name             : "Youngseok Kim"
   avatar           : "bhalerao.jpg"
-  bio              : "PhD student in computer science at NYU working with Professor Damon McCoy. Interested in cybercrime, natural language processing, machine learning, and teaching. She/her"
-  location         : "rasikabh @ gmail.com"
-  employer         : "New York University"
+  bio              : "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in 3D computer vision and autonomous vehicle."
+  location         : "youngseok.kim@kaist.ac.kr"
+  employer         : "Korea Advanced Institute of Science and Technology, KAIST"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
-  researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
+  googlescholar    : "https://scholar.google.com/citations?user=R8KIZZEAAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Youngseok-Kim-9"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,24 +95,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rasikabh"
+  github           : "youngskkim"
   google_plus      :
-  keybase          : "rasikabh"
+  keybase          : 
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rasika-bhalerao-8a827188/"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "rasikabh"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCOWYaSQ8KC1prsGsQoc5n7g"
   wikipedia        :
 
 
