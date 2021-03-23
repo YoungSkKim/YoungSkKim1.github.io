@@ -26,7 +26,7 @@ Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “[Low-level Sensor Fusion N
 **Youngseok Kim**, Dongsuk Kum, “[Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image](https://ieeexplore.ieee.org/document/8814050),” 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019, pp. 317-323, doi: 10.1109/IVS.2019.8814050. *(Oral presentation, 5.8% acceptance rate)*
 
 [![IV2019_Video](https://img.youtube.com/vi/2zvS87d1png/0.jpg){:height="180px" width="320px"}](https://www.youtube.com/watch?v=2zvS87d1png)
-![IV_Oral1](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/IV_Oral1.jpg){:height="180px" width="240px"}
+![IV_Oral1](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/IV_Oral1.jpg?raw=true){:height="180px" width="240px"}
 ![IV_Oral2](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/IV_Oral2.jpg){:height="180px" width="240px"}
 
 ---------------------------------------
