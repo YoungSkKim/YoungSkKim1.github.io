@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Youngseok Kim"
+title: "Youngseok Kim (김영석)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
