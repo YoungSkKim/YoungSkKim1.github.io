@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Youngseok Kim"
 title_separator          : "-"
 name                     : &name "Youngseok Kim"
-description              : &description "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in 3D computer vision and autonomous vehicle."
+description              : &description "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in 3D computer vision and autonomous driving."
 url                      : https://youngskkim.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youngskkim/youngskkim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Youngseok Kim"
   avatar           : "YoungseokKim.jpg"
-  bio              : "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in 3D computer vision and autonomous vehicle."
+  bio              : "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in 3D computer vision and autonomous driving."
   location         : "youngseok.kim@kaist.ac.kr"
   employer         : "KAIST"
   pubmed           :
