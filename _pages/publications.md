@@ -21,13 +21,13 @@ Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “[Low-level Sensor Fusion N
 
 
 ### Patents
-Dongsuk Kum, **Youngseok Kim**, "ELECTRONIC DEVICE FOR OBTAINING THREE-DIMENSION OBJECT BASED ON CAMERA AND RADAR SENSOR FUSION, AND OPERATING METHOD THEREOF," KR, Registration Number: 10-2168753-0000
+Dongsuk Kum, **Youngseok Kim**, "ELECTRONIC DEVICE FOR OBTAINING THREE-DIMENSION OBJECT BASED ON CAMERA AND RADAR SENSOR FUSION, AND OPERATING METHOD THEREOF," KR, Registration Number: 10-2168753-0000.
 
-Dongsuk Kum, **Youngseok Kim**, "Simultaneous Traffic Participants Detection and Localization vis Bird’s Eye View Image," KR, Registration Number: 10-2003387-0000
+Dongsuk Kum, **Youngseok Kim**, "Simultaneous Traffic Participants Detection and Localization vis Bird’s Eye View Image," KR, Registration Number: 10-2003387-0000.
 
-Dongsuk Kum, **Youngseok Kim**, Seoung Jun Lee, "DISTANCE MEASURING DEVICE USING MONO INFRARED CAMERA AND METHOD THEREOF," KR, Registration Number: 10-1918887-0000
+Dongsuk Kum, **Youngseok Kim**, Seoung Jun Lee, "DISTANCE MEASURING DEVICE USING MONO INFRARED CAMERA AND METHOD THEREOF," KR, Registration Number: 10-1918887-0000.
 
-Dongsuk Kum, **Youngseok Kim**, "ELECTRONIC DEVICE FOR OBTAINING THREE-DIMENSION OBJECT BASED ON CAMERA AND RADAR SENSOR FUSION, AND OPERATING METHOD THEREOF," US, DE, PCT, Application Number: 17199043
+Dongsuk Kum, **Youngseok Kim**, "ELECTRONIC DEVICE FOR OBTAINING THREE-DIMENSION OBJECT BASED ON CAMERA AND RADAR SENSOR FUSION, AND OPERATING METHOD THEREOF," US, DE, PCT, Application Number: 17199043.
 
 
 ### Domestic Papers
