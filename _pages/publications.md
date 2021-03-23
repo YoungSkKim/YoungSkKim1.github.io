@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## (Conference Papers)
+### (Conference Papers)
 
 Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “[Low-level Sensor Fusion Network for 3D Vehicle Detection using Radar Range-Azimuth Heatmap and Monocular Image](https://www.researchgate.net/publication/344661441_Low-level_Sensor_Fusion_for_3D_Vehicle_Detection_using_Radar_Range-Azimuth_Heatmap_and_Monocular_Image),” Proceedings of the Asian Conference on Computer Vision (ACCV), Kyoto, Japan (Virtual), 2020, pp. 388-402, doi: 10.1007/978-3-030-69535-4_24.
 
@@ -23,7 +23,7 @@ Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “[Low-level Sensor Fusion N
 ---------------------------------------
 
 
-## (Patents)
+### (Patents)
 
 Dongsuk Kum, **Youngseok Kim**, "Electronic Device for Obtaining Three-Dimension Object Based on Camera and Radar Sensor Fusion, and Operating Method Thereof," KR, Registration Number: 10-2168753-0000.
 
@@ -37,7 +37,7 @@ Dongsuk Kum, **Youngseok Kim**, "Electronic Device for Obtaining Three-Dimension
 ---------------------------------------
 
 
-## (Domestic Papers)
+### (Domestic Papers)
 
 **Youngseok Kim**, Dongsuk Kum, "Vehicle Distance Estimation using Convolutional Neural Network on Inverse Perspective Mapping Image,"  Korean Society of Automotive Engineers (KSAE), Gyeongju, Korea, 2019.
 
