@@ -17,7 +17,7 @@ Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “[Low-level Sensor Fusion N
 
 **Youngseok Kim**, Jun Won Choi, Dongsuk Kum, “[GRIF Net: Gated Region of Interest Fusion Network for Robust 3D Object Detection from Radar Point Cloud and Monocular Image](https://www.researchgate.net/publication/335499200_Deep_Learning_based_Vehicle_Position_and_Orientation_Estimation_via_Inverse_Perspective_Mapping_Image),” 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vagas, NV, USA (Virtual), 2020, pp. 10857-10864, doi: 10.1109/IROS45743.2020.9341177.
 
-**Youngseok Kim**, Dongsuk Kum, “[Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image](https://www.researchgate.net/publication/335499200_Deep_Learning_based_Vehicle_Position_and_Orientation_Estimation_via_Inverse_Perspective_Mapping_Image),” 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019, pp. 317-323, doi: 10.1109/IVS.2019.8814050. *(Oral, 5.8% acceptance rate)*
+**Youngseok Kim**, Dongsuk Kum, “[Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image](https://www.researchgate.net/publication/335499200_Deep_Learning_based_Vehicle_Position_and_Orientation_Estimation_via_Inverse_Perspective_Mapping_Image),” 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019, pp. 317-323, doi: 10.1109/IVS.2019.8814050. *(Oral presentation, 5.8% acceptance rate)*
 
 
 ---------------------------------------
