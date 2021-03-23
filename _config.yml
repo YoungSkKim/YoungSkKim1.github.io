@@ -11,7 +11,7 @@ title                    : "Youngseok Kim"
 title_separator          : "-"
 name                     : &name "Youngseok Kim"
 description              : &description "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in 3D computer vision and autonomous driving."
-url                      : https://youngskkim.github.io/
+url                      : https://youngskkim.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youngskkim/youngskkim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Youngseok Kim"
   avatar           : "YoungseokKim.jpg"
-  bio              : "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in 3D computer vision and autonomous driving."
+  bio              : "I am a PhD student at KAIST working with Professor Dongsuk Kum. I am interested in 3D computer vision and machine learning."
   location         : "youngseok.kim@kaist.ac.kr"
   employer         : "KAIST"
   pubmed           :
@@ -254,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: ROK # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
