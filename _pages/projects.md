@@ -13,18 +13,18 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### (Monocular 3D Object Detection on KITTI Dataset)
+### Monocular 3D Object Detection on KITTI Dataset
 #### To be updated
 ---------------------------------------
 
-### (Camera-Radar Dataset Collection)
+### Camera-Radar Dataset Collection
 #### To be updated
 ---------------------------------------
 
-### (Traffic Light Detection)
+### Traffic Light Detection
 #### To be updated
 ---------------------------------------
 
-### (Camera-LiDAR Extrinsic Calibration)
+### Camera-LiDAR Extrinsic Calibration
 #### To be updated
 ---------------------------------------
