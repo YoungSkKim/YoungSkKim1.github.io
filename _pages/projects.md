@@ -17,22 +17,25 @@ h2, h3, h4, h5, h6 {margin: 0;}
 #### To be updated
 ---------------------------------------
 
-### Autonomous Driving Dataset Acquisition
-#### To be updated
+## Autonomous Driving Dataset Acquisition
+
+**7,520 frames of LiDAR, 2 radars, 6 cameras, GPS, IMU, CAN data**  
+![dataset](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/dataset.png?raw=true){:height="320px" width="240px"}  
+
+Contributors: Sangmin Sim, Sihwan Hwang
 ---------------------------------------
 
-### Camera LiDAR Calibration
+## Camera LiDAR Calibration
 
-**Camera intrinsic, Camera-LiDAR extrinsic calibration**  
-![cali](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/000025.jpg?raw=true){:height="320px"}  
-Calibration using genetic algorithm
+**Intrinsic, extrinsic calibration using genetic algorithm**  
+![cali](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/000025.jpg?raw=true){:height="320px" width="240px"}  
 
 ---------------------------------------
 
-### Traffic Light Detection 
-<br/>
+## Traffic Light Detection 
+
 **Learning-based traffic light detector + Rule-based light bulb classifier**  
-![tr](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/trafficlight.png?raw=true){:height="320px"}  
+![tr](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/trafficlight.png?raw=true){:height="320px" width="240px"}  
 1) Extract RoIs (traffic lights) using one-stage object detector  
 2) Extract pixels of the lit blub on traffic light using histogram-based thresholding  
  2-1) Classify the color of bulb among the color templates using clustering algorithm  
