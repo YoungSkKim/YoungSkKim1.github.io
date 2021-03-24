@@ -13,16 +13,18 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### Monocular 3D Object Detection on KITTI Dataset
+## Monocular 3D Object Detection on KITTI Dataset
+
 #### To be updated
 ---------------------------------------
 
 ## Autonomous Driving Dataset Acquisition
 
-**7,520 frames of LiDAR, 2 radars, 6 cameras, GPS, IMU, CAN data**  
+**LiDAR, 2 radars, 6 cameras, GPS, IMU, CAN data**  
 ![dataset](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/dataset.png?raw=true){:height="320px" width="240px"}  
-
-Contributors: Sangmin Sim, Sihwan Hwang
+The dataset consists of 7,520 frames collected through more than 10 hours driving.  
+The data is collected considering various time (day, night) and environments (downtown, suburb, motorway).  
+*Contributors: Sangmin Sim, Sihwan Hwang*
 ---------------------------------------
 
 ## Camera LiDAR Calibration
@@ -34,7 +36,7 @@ Contributors: Sangmin Sim, Sihwan Hwang
 
 ## Traffic Light Detection 
 
-**Learning-based traffic light detector + Rule-based light bulb classifier**  
+**Learning-based detector + Rule-based classifier**  
 ![tr](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/trafficlight.png?raw=true){:height="320px" width="240px"}  
 1) Extract RoIs (traffic lights) using one-stage object detector  
 2) Extract pixels of the lit blub on traffic light using histogram-based thresholding  
