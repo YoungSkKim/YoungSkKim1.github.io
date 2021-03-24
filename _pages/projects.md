@@ -32,7 +32,7 @@ Calibration using genetic algorithm
 ### Traffic Light Detection 
 <br/>
 **Learning-based traffic light detector + Rule-based light bulb classifier**  
-![tr](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/traffic light detection.png?raw=true){:height="320px"}  
+![tr](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/trafficlight.png?raw=true){:height="320px"}  
 1) Extract RoIs (traffic lights) using one-stage object detector  
 2) Extract pixels of the lit blub on traffic light using histogram-based thresholding  
  2-1) Classify the color of bulb among the color templates using clustering algorithm  
