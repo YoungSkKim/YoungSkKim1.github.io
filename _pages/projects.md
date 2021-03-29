@@ -22,7 +22,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ## Autonomous Driving Dataset Acquisition
 
 **LiDAR, 2 radars, 6 cameras, GPS, IMU, CAN data**  
-#### *Contributors: Sangmin Sim, Sihwan Hwang*  
+#### *In collaboration with: Sangmin Sim, Sihwan Hwang*  
 ![dataset](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/dataset.png?raw=true){:width="600px"}  
 The dataset consists of 7,520 frames collected through more than 10 hours driving considering various time (day, night) and environments (downtown, suburb, motorway).
 The dataset contains following sensors: 3D LiDAR (Ouster OS1-64), point-level radar (Continental ARS408), low-level radar (INRAS RadarBook2), camera (FLIR BlackFly), DGPS and IMU (Novatel Flexpak6).
