@@ -21,9 +21,9 @@ h2, h3, h4, h5, h6 {margin: 0;}
 **Bird's-eye-view (BEV) object detection via Inversep Perspective Mapping (IPM) image**  
 ![IV](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/IV-concept.jpg?raw=true){:width="600px"}  
 
-<br/>
+  
 ---------------------------------------
-<br/>
+  
 
 ## Sensor fusion-based 3D Object Detection  
 **Low-level Range-Azimuth radar heatmap and monocular image fusion**  
@@ -32,9 +32,9 @@ h2, h3, h4, h5, h6 {margin: 0;}
 **Robust radar point cloud and monocular image fusion using gating mechanism**  
 ![IROS](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/IROS-plot.png?raw=true){:width="600px"}  
 
-<br/>
+  
 ---------------------------------------
-<br/>
+  
 
 ## Autonomous Driving Dataset Acquisition
 
