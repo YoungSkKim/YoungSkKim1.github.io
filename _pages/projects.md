@@ -19,7 +19,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ![ICCV](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/CenterNet-Boost-plot.png?raw=true){:width="600px"}  
 
 **Bird's-eye-view (BEV) object detection via Inversep Perspective Mapping (IPM) image**  
-![IV](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/IV-concept.png?raw=true){:width="600px"}  
+![IV](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/IV-concept.jpg?raw=true){:width="600px"}  
 
 ---------------------------------------
 
