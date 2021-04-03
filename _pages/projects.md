@@ -22,7 +22,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ![IV](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/IV-concept.jpg?raw=true){:width="600px"}  
 
 <br/>
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 <br/>
 
 ## Sensor fusion-based 3D Object Detection  
@@ -33,7 +33,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ![IROS](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/IROS-plot.png?raw=true){:width="600px"}  
 
 <br/>
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 <br/>
 
 ## Autonomous Driving Dataset Acquisition
@@ -44,7 +44,7 @@ The dataset contains following sensors: 3D LiDAR (Ouster OS1-64), point-level ra
 ### *In collaboration with: Sangmin Sim (Low-level radar, data collection), Sihwan Hwang (data collection)*  
 
 <br/>
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 <br/>
 
 ## Traffic Light Detection 
@@ -58,7 +58,7 @@ The dataset contains following sensors: 3D LiDAR (Ouster OS1-64), point-level ra
 3) Remove false alarm by moving average filter  
 
 <br/>
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 <br/>
 
 ## Sensor Calibration
