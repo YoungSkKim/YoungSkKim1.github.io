@@ -54,5 +54,7 @@ Dongsuk Kum, **Youngseok Kim**, "Electronic Device for Obtaining Three-Dimension
 ### (Domestic Papers)
 
 **Youngseok Kim**, Dongsuk Kum, "Vehicle Distance Estimation using Convolutional Neural Network on Inverse Perspective Mapping Image,"  Korean Society of Automotive Engineers (KSAE), Gyeongju, Korea, 2019.
+<br/>
+![KSAE](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/KSAE_2019.jpg?raw=true){:height="180px" width="240px"}
 
 **Youngseok Kim**, Dongsuk Kum, "Fault Tolerant Vehicle Detection Using Camera-LiDAR Sensor Fusion: Multi-channel Faster R-CNN,"  Korean Society of Automotive Engineers (KSAE), Busan, Korea, 2018.
