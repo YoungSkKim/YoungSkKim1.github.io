@@ -30,7 +30,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ![ACCV](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/ACCV-plot2.png?raw=true){:width="400px"}  
 
 **Robust radar point cloud and monocular image fusion using gating mechanism**  
-![IROS](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/IROS-plot.png?raw=true){:width="800px"}  
+![IROS](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/IROS-plot.png?raw=true){:width="600px"}  
 
 <br/>
 <hr style="border:1px solid gray">
@@ -38,7 +38,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ## Autonomous Driving Dataset Acquisition
 
-![dataset](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/VDC-Dataset.png?raw=true){:width="600px"}  
+![dataset](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/VDC-Dataset.png?raw=true){:width="800px"}  
 The dataset consists of 7,520 frames and 86,078 annotations collected through more than 10 hours driving considering various time (day, night) and environments (urban, suburb, motorway). The dataset contains following sensors: 3D LiDAR (Ouster OS1-64), point-level radar (Continental ARS408), low-level radar (INRAS RadarBook2), camera (FLIR BlackFly), DGPS with IMU (Novatel Flexpak6). 
 ### *In collaboration with: Sangmin Sim (Low-level radar, data collection), Sihwan Hwang (data collection)*  
 
@@ -62,6 +62,6 @@ The dataset consists of 7,520 frames and 86,078 annotations collected through mo
 
 ## Sensor Calibration
 
-![cali](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/000025.jpg?raw=true){:width="600px"}  
+![cali](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/000025.jpg?raw=true){:width="500px"}  
 **Camera intrinsic calibration** using MATLAB ToolBox  
 **Camera-LiDAR extrinsic calibration** using genetic algorithm based optimization  
