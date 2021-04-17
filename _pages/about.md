@@ -12,4 +12,4 @@ I'm Youngseok Kim, a PhD candidate in the Graduate School of Green Transportatio
 
 Previously, I received my B.S degree in Mechatronics Engineering in 2017 at Korea University of Technology and Education, earned my M.S. degree in Green Transportation in 2019 at Korea Advanced Institute of Science and Technology.
 
-I'm interested in computer vision and machine learning for autonomous driving system. My current research is focused on developing the robust and cost-effective 3D object detection approaches using off-the-shelf monocular camera and radar sensors.
+I'm interested in computer vision and machine learning for autonomous driving system. My current research is focused on developing the robust and cost-effective 3D object detector using off-the-shelf monocular camera and radar sensors.
