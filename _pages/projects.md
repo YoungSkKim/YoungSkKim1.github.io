@@ -14,8 +14,8 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 ## Monocular image-based 3D Object Detection  
-**Boost monocular 3D object detector with auxiliary depth prediction task**  
-*(ranked 1st among published monocular methods on KITTI BEV detection benchmark as of 2021 March)*  
+**Boosting monocular 3D object detector with auxiliary depth and uncertainty prediction**  
+*(ranked 1st among published monocular methods on KITTI bird's-eye-view detection benchmark as of 2021 March)*  
 ![ICCV](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/CenterNet-Boost-plot.png?raw=true){:width="800px"}  
 
 **Bird's-eye-view (BEV) object detection via Inversep Perspective Mapping (IPM) image**  
