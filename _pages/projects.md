@@ -15,7 +15,8 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ## Monocular image-based 3D Object Detection  
 **Boosting monocular 3D object detector with auxiliary depth and uncertainty prediction**  
-*(ranked 1st among published monocular methods on KITTI bird's-eye-view detection benchmark as of 2021 March)*  
+*(ranked 1st, 3rd among published monocular methods on KITTI BEV, 3D detection benchmark as of 2021 April)*  
+![ICCV](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/CenterNet-Boost-Quantitative results2.png?raw=true){:width="800px"}  
 ![ICCV](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/CenterNet-Boost-plot.png?raw=true){:width="800px"}  
 
 **Bird's-eye-view (BEV) object detection via Inversep Perspective Mapping (IPM) image**  
@@ -52,8 +53,8 @@ The dataset consists of 7,520 frames and 86,078 annotations collected through mo
 ![tr](https://github.com/YoungSkKim/YoungSkKim.github.io/blob/master/images/projects/trafficlight.png?raw=true){:width="600px"}  
 1) Extract RoIs (traffic lights) using one-stage object detector  
 2) Extract pixels of the lit blub on traffic light using histogram-based thresholding on HSV color space  
- 2-1) Classify the color of bulb among the color templates using clustering algorithm  
- 2-2) Classify the left-turn signal using rule-base kernel if the light is green4  
+　2-1) Classify the color of bulb among the color templates using clustering algorithm  
+　2-2) Classify the left-turn signal using rule-base kernel if the light is green  
 3) Remove false alarm by moving average filter  
 
 <br/>
