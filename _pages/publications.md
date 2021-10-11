@@ -5,15 +5,17 @@ permalink: publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=R8KIZZEAAAAJ&hl=ko}">my Google Scholar profile</a>.</u>
+
 
 {% include base_path %}
 
 ### (Conference Papers)
 
-**Youngseok Kim**, Sangmin Sim, Jun Won Choi, Dongsuk Kum, “LiDAR Points as Depth Supervision: Boosting Monocular 3D Object Detection with Auxiliary Depth and Uncertainty Prediction,” *Under Review*, 2021. *(ranked 1st among published monocular methods on KITTI BEV detection benchmark as of 2021 March)*
+**Youngseok Kim**, Sangmin Sim, Jun Won Choi, Dongsuk Kum, “Pixel-Wise Object-Centric Auxiliary Depth Loss for Monocular 3D Object Detection,” *Under Review*, 2021. *(ranked 1st among published monocular methods on KITTI BEV detection benchmark as of 2021 March)*
+<br/>
+Introduced in KAIST breakthroughs 2021
+\[[Link](http://breakthroughs.kaist.ac.kr/?post_no=2029)\] 
 
 Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “Low-level Sensor Fusion Network for 3D Vehicle Detection using Radar Range-Azimuth Heatmap and Monocular Image,” Proceedings of the 15th Asian Conference on Computer Vision (ACCV), Kyoto, Japan (Virtual), 2020.
 <br/>
