@@ -28,7 +28,7 @@ Jinhyeong Kim\*, **Youngseok Kim\***, Dongsuk Kum, “Low-level Sensor Fusion Ne
 \[[Presentation](https://www.youtube.com/watch?v=0bFLy4Bbznw)\] 
 \[[Video](https://www.youtube.com/watch?v=CyJrMpBhEGI)\]
 
-**Youngseok Kim**, Dongsuk Kum, “Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image,” 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019. *(Oral presentation, 5.8% acceptance rate)*
+**Youngseok Kim**, Dongsuk Kum, “Deep Learning based Vehicle Position and Orientation Estimation via Inverse Perspective Mapping Image,” 2019 IEEE Intelligent Vehicles Symposium (IV), Paris, France, 2019. *(Oral presentation, 5.8% acceptance rate for oral-presentation papers)*
 <br/>
 \[[Paper](https://ieeexplore.ieee.org/document/8814050)\] 
 \[[Video](https://www.youtube.com/watch?v=2zvS87d1png)\]
@@ -47,7 +47,7 @@ Dongsuk Kum, **Youngseok Kim**, "Simultaneous Traffic Participants Detection and
 
 Dongsuk Kum, **Youngseok Kim**, Seoung Jun Lee, "Distance Measuring Device Using Mono Infrared Camera and Method Thereof," KR, Registration Number: 10-1918887-0000.
 
-Dongsuk Kum, **Youngseok Kim**, "Electronic Device for Obtaining Three-Dimension Object Based on Camera and Radar Sensor Fusion, and Operating Method Thereof," US, DE, PCT, Application Number: 17199043.
+Dongsuk Kum, **Youngseok Kim**, "Electronic Device for Obtaining Three-Dimension Object Based on Camera and Radar Sensor Fusion, and Operating Method Thereof," US, DE, PCT, Application Number: 17199043, 10 2021 106 518.6, PCT/KR2021/002916.
 
 
 ---------------------------------------
