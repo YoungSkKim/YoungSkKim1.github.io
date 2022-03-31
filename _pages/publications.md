@@ -12,7 +12,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ### (Conference Papers)
 
-**Youngseok Kim**, Sangmin Sim, Jun Won Choi, Dongsuk Kum, “Pixel-Wise Object-Centric Auxiliary Depth Loss for Monocular 3D Object Detection,” *Under Review*, 2021. *(ranked 1st among published monocular methods on KITTI BEV detection benchmark as of 2021 March)*
+Sangmin Sim, **Youngseok Kim**, Dongsuk Kum, “Sequential Image-based 3D Object Detection\\with Location Refinement,” Proceedings of the IEEE 26th International Conference on Pattern Recognition (ICPR), Montréal, Québec, 2022.
+<br/>
+
+**Youngseok Kim**, Sangmin Sim, Jun Won Choi, Dongsuk Kum, “Pixel-Wise Object-Centric Auxiliary Depth Loss for Monocular 3D Object Detection,” *Under Review*, 2021. *(ranked 1st/3rd among published monocular methods on KITTI BEV/3D detection benchmark as of 2021 April)*
 <br/>
 Introduced in KAIST breakthroughs 2021
 \[[Link](http://breakthroughs.kaist.ac.kr/?post_no=2029)\] 
