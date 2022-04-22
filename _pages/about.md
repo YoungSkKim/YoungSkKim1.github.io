@@ -8,8 +8,8 @@ redirect_from:
   - about.html
 ---
 
-I'm Youngseok Kim, a 4th year Ph.D. candidate in the Graduate School of Green Transportation (GSGT) at Korea Advanced Institute of Science and Technology (KAIST) under [Prof. Dongsuk Kum](http://vdclab.kaist.ac.kr/). 
+I'm Youngseok Kim, a 4th year Ph.D. candidate in the Graduate School of Mobility at Korea Advanced Institute of Science and Technology under [Prof. Dongsuk Kum](http://vdclab.kaist.ac.kr/). 
 
-Previously, I received my B.S degree in Mechatronics Engineering in 2017 at Korea University of Technology and Education, earned my M.S. degree in Green Transportation in 2019 at Korea Advanced Institute of Science and Technology.
+Previously, I received my B.S degree in 2017 at Korea University of Technology and Education, earned my M.S. degree in 2019 at Korea Advanced Institute of Science and Technology.
 
 My research lies in the areas of 3D computer vision and machine learning. My current research is focused on developing the robust and cost-effective 3D object detector using off-the-shelf monocular camera and radar sensors for autonomous driving system.
