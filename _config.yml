@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Youngseok Kim"
 title_separator          : "-"
 name                     : &name "Youngseok Kim"
-description              : &description "I am a PhD student at KAIST, interested in computer vision and machine learning."
+description              : &description "I am a Ph.D. student at KAIST, interested in computer vision and machine learning."
 url                      : https://youngskkim.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youngskkim/youngskkim.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "youngskkim"
+  github           :
   google_plus      :
   keybase          : 
   instagram        :
