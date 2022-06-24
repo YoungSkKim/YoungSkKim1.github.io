@@ -1,8 +1,5 @@
 # main links links
-main:
-  - title: "About"
-    url: /about/    
-    
+main:    
   - title: "Publications"
     url: /publications/ 
     
@@ -10,5 +7,5 @@ main:
     url: /projects/ 
 
   - title: "CV"
-    url: https://drive.google.com/file/d/1hHdZ2EaiNFFvuh3sddImLLGH4E5Oods7/view?usp=sharing
+    url: https://drive.google.com/file/d/1TRDMXkho-8PRAACkraXH9cm_Mb3ng49e/view?usp=sharing
     
